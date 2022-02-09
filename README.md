@@ -3,7 +3,7 @@
 
 Overview
 
-The client is looking to ave an app built that can suggest meals and recipes that matches User's Criteria. The criteia should include dietary requirements, preferneces and budget. The meals should be highly rated meal recipes from theinternet or it could be based on ingredients entered by the user or based on their shopping list.
+The client is looking to have an app built that can suggest meals and recipes that matches User's Criteria. The criteia should include dietary requirements, preferneces and budget. The meals should be highly rated meal recipes from theinternet or it could be based on ingredients entered by the user or based on their shopping list.
 
 The app should have an option of meal planning for upcomming meals and should produce an automated shopping list based on meal planner selection.
 
