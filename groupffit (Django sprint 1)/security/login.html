@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html lang = 'en'>
+    <head>
+
+     <meta charset = 'UTF -8'></meata>  
+     <title>Title</title> 
+
+<body>
+    
+    <h1>FITNESS APP</h1>
+    <p> Please login using your valid credentials</p>
+    <form action = "" method=" post" novalidate>
+    {% csrf_token %}
+    {{form.as_p}}
+
+    <p><input type='submit' value='Login'></p>
+    <small class="text-muted ml-2">
+        <a href="{% url 'password_reset' %}">Forgot Password?</a>
+    </small>
+    
+    </form>
+</body>
+
+
+
+    </head>
+</html>
